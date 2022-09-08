@@ -6,6 +6,21 @@ I have used Random Forest and XGBoost Regressors in order to predict the energy 
 The results of the models was impressive and the first thought was the presence of overfitting, after an investigation I realized that the data structure and high correlation between the features was responsible for high scores. High data quality matters!
 
 
+![Screenshot from 2022-06-04 17-43-50](https://user-images.githubusercontent.com/93320620/189077106-f9ee9b7c-ca3c-44b2-839f-e6d7ede42e97.png)
+
+
+
+![Screenshot from 2022-06-04 18-53-36](https://user-images.githubusercontent.com/93320620/189077181-7cb0012b-a637-48ab-8f04-525f0e05be9f.png)
+
+
+![Screenshot from 2022-06-05 01-25-33](https://user-images.githubusercontent.com/93320620/189077553-46c927c5-b43f-4866-9b28-e17ef5cbc44f.png)
+
+
+
+
+
+
+
 Relevant Papers:
 
 1. Sathishkumar V E, Changsun Shin, Youngyun Cho, â€œEfficient energy consumption prediction model for a data analytic-enabled industry building in a smart cityâ€, Building Research & Information, Vol. 49. no. 1, pp. 127-143, 2021.
